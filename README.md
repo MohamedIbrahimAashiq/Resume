@@ -2,7 +2,7 @@
 
 Welcome to my resume repository!
 
-Here you can find my up-to-date CV covering my education, experience, projects, and skills in **Cyber Security**, **Data Science**, and **AI**.
+Here you can find my up-to-date CV covering my education, experience, projects, and skills in **Cyber Security**, **Data Science**, and **ML**.
 
 📄 **[Download My CV](./Aashiq_CV.docx)**
 
